@@ -1,6 +1,6 @@
 UserStories.md
 
-1) As a dj, I want to connect with other women identified djs so that I can build relationships
+1) As a dj, I want to connect with other women identified djs so that I can build relationships.
 
 2) As a dj, I want to more clients to find me so that I can grow my business.
 
